@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhranil12-BT
+- 👋 Hi, I’m Subhranil
 - 👀 I’m interested in - Generative AI Modelling & Data Visualization
 - 🌱 I’m currently learning - Generative AI Modelling
 - 💞️ I’m looking to collaborate on ...
